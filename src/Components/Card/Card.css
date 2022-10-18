@@ -1,0 +1,35 @@
+.cart {
+  border: 0.5px solid #cdcdcd;
+  border-radius: 8px;
+  min-width: 80px;
+  max-width: 80px;
+  height: 104px;
+  margin: 7px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.cart__int {
+  margin: 0;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 104px;
+  text-align: center;
+  vertical-align: middle;
+  height: 104px;
+  opacity: 0;
+}
+
+.fliped {
+  box-sizing: border-box;
+  opacity: 1;
+  cursor: auto;
+  border: 0.5px solid #000;
+  border-radius: 8px;
+}
+
+.cart_active {
+  box-shadow: 2px 3px 5px #cdcdcd;
+}
