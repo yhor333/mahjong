@@ -1,0 +1,13 @@
+.caption {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+}
+
+.cart-wrapper {
+  display: flex;
+  justify-content: center;
+}
